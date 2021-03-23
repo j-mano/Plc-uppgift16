@@ -1,0 +1,9 @@
+Funktionsbeskrivning
+När en pall placeras på conveyor 1 så förflyttas den hela vägen till conveyor 3 där den stannar. Systemet hanterar i detta läge endast en pall åt gången.
+
+Pallar adderas manuellt och behöver ej automatiseras. En pall adderas genom att högerklicka på den vänstra konen och välja "drop product" i menyn som framträder. Simumatik3D måste vara i "play läge" för att du ska kunna göra detta.
+
+ 
+
+Uppgift
+Ett program skapas i CoDeSys som uppfyller funktionsbeskrivningen ovan.
